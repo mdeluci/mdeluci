@@ -1,9 +1,8 @@
 ## Hi👋🏼, I'm Mario!👩🏻‍💻
 
-* 💊 I am a Sr Advisor in Scientific Machine Learning at [Eli Lilly and Company](https://www.lilly.com/).
+* 💊 I am an Advisor in Computational Science (CFD) at [Eli Lilly and Company](https://www.lilly.com/).
 * 🔍 My research focuses on physics-based modeling and AI-driven design of drug delivery systems.
-* 🖥️ I have developed and maintain several open-source libraries [(more on that here!)](https://github.com/katiana22?tab=repositories).
-* 👥 For more information check out [my personal website](https://www.katianakontolati.com/).
+* 👥 For more information check out [my personal website](https://mdeluci.github.io/).
 
 ---
 
